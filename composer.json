@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-permission",
+    "name": "tuandm/laravel-permission",
     "description": "Permission handling for Laravel 8.0 and up",
     "license": "MIT",
     "keywords": [
